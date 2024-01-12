@@ -10,7 +10,7 @@ This Python script performs a Bluetooth DOS attack using l2ping. Please note tha
 
 ## Usage
 
-1. Run the script: `python dos_script.py`
+1. Run the script: `python3 alienrim.py`
 2. Agree to the disclaimer.
 3. The script will scan for Bluetooth devices and display a list.
 4. Select the target device by its ID or MAC address.
