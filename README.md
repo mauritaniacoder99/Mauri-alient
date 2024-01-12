@@ -26,11 +26,13 @@ This Python script performs a Bluetooth DOS attack using l2ping. Please note tha
 ## INSTALLATION
 
 git clone https://github.com/mauritaniacoder99/Mauri-Alien.git
+
+
 cd Mauri-Alien
 
 
 
-## Legal Notice
+
 
 This script should only be used for educational purposes and ethical hacking in compliance with applicable laws. Unauthorized use is strictly prohibited.
 
